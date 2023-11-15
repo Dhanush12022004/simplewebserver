@@ -60,6 +60,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+![image](https://github.com/Dhanush12022004/simplewebserver/assets/128135558/4ee5ec6e-7660-4564-b462-0a65b12a088c)
+
+
 ![Alt text](<FWADex1img.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
